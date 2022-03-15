@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/country-quiz-master/static/css/main.c5c00099.css",
+    "main.js": "/country-quiz-master/static/js/main.8d35e0ec.js",
+    "static/media/undraw_winners.svg": "/country-quiz-master/static/media/undraw_winners.d76bfdf87016eda38fd439d929ce0371.svg",
+    "static/media/background.png": "/country-quiz-master/static/media/background.41dbc5504a105eae7176.png",
+    "static/media/spinner.gif": "/country-quiz-master/static/media/spinner.a1a996746e5e48352c81.gif",
+    "static/media/online-test-bro.svg": "/country-quiz-master/static/media/online-test-bro.50dc547a78f71a3c2fb9bd688d544f77.svg",
+    "static/media/undraw_adventure.svg": "/country-quiz-master/static/media/undraw_adventure.182b6171bba7c99e5444500b4daec361.svg",
+    "static/media/404-error-bro.svg": "/country-quiz-master/static/media/404-error-bro.1c1188aa57521da9f89ca6925769a66a.svg",
+    "index.html": "/country-quiz-master/index.html",
+    "main.c5c00099.css.map": "/country-quiz-master/static/css/main.c5c00099.css.map",
+    "main.8d35e0ec.js.map": "/country-quiz-master/static/js/main.8d35e0ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5c00099.css",
+    "static/js/main.8d35e0ec.js"
+  ]
+}
